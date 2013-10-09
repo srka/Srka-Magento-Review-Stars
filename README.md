@@ -19,3 +19,5 @@ Installation
 	</script>
 	```
   * Test it and enjoy.
+
+You can find the full article about the plugin at: http://leaditsoftware.com/simple-magento-review-starts-plugin-made-with-prototype-js/
