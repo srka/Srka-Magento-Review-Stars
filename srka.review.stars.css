@@ -1,0 +1,7 @@
+#srka-product-review-list { width: 100%; padding: 5px 10px; background: #fff; border: 1px solid #ccc; }
+#srka-product-review-list .srka-rating-code { padding: 3px 0; }
+#srka-product-review-list .srka-rating-code .label { min-width: 100px; display: block; float: left; color: #333; }
+#srka-product-review-list .srka-rating-code .options {}
+#srka-product-review-list .srka-rating-code .options li { display: block; float: left; margin-top: 2px; }
+#srka-product-review-list .srka-rating-code .options li .option { display: block; width: 14px; height: 13px; background: url(../../images/bkg_rating.gif) center top no-repeat; text-indent: -9999em; }
+#srka-product-review-list .srka-rating-code .options li .option.selected { background-position: center bottom; }
