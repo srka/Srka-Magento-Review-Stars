@@ -10,7 +10,7 @@ Installation
 ---------------
   * Add srka.review.stars.min.js (or srka.review.stars.js) and srka.review.stars.css files to the product page.
   * Open app/design/frontend/[YOUR_PACKAGE]/[YOUR_THEME]/template/review/form.phtml and add the following code just below the #review-form closing tag.
-````` HTML
+`````
 <script type="text/javascript">
 	//<![CDATA[
 	var reviewStars = new SrkaReviewStars('product-review-table');
